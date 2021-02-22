@@ -68,7 +68,10 @@
 	
 	 		
 	?>
+	<fieldset>
+		<legend><h1>Club Member Registration</h1></legend>
 	<form action="" method="post">
+
 		<table>
 			<tr>
 				<td><label>User name </label></td>
@@ -109,5 +112,6 @@
 			</tr>
 		</table>
 	</form>
+</fieldset>
 </body>
 </html>
